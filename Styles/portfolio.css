@@ -18,7 +18,7 @@ body {
 }
 
 .btn-contact {
-    border-radius: 10px;
+    border-radius: 5px;
     border: 1px solid #FD6E0A;
     background: #FFF8F3;
     color: #FD6E0A;
@@ -68,7 +68,8 @@ nav a {
 .banner {
     padding: 30px 30px 30px 150px;
     display: flex;
-    
+    align-items: center;
+
 }
 
 .banner .profile-picture{
